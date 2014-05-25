@@ -396,7 +396,7 @@ public class Quickget extends WindowAdapter implements ActionListener{
 		try {
 			Quickget qk=new Quickget();
 			//设置应用程序图标
-			Image ic=Toolkit.getDefaultToolkit().getImage("a.png");
+			Image ic=Toolkit.getDefaultToolkit().getImage("title.png");
 			qk.fr.setIconImage(ic);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
